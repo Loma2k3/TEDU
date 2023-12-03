@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "AnimeShopDb": "Server=DESKTOP-OPL7QDE\\SQLEXPRESS;Database=AnimeShop;Trusted_Connection=True;"
+  }
+}
